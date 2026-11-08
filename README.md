@@ -1,5 +1,1 @@
-# Money Manager
-
-Static website for GitHub Pages. In repository Settings → Pages, choose Deploy from a branch, `main`, `/(root)`. The website will appear at `https://USERNAME.github.io/REPOSITORY/`.
-
-**Data warning:** This app stores data in browser local storage. Moving to a new domain does not migrate data from Netlify.
+Money Manager GitHub Pages update: replace repository root files with these files. The old icon filenames can be deleted. The application code and local storage key remain unchanged. After publishing, remove old Home Screen shortcuts only after confirming data is safe.
